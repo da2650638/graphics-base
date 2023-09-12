@@ -1,0 +1,16 @@
+
+# Directories
+.vs/
+bin/
+bin-int/
+
+# Files
+*.user
+*.filters
+*.vcxproj
+*.sln
+Ether_*.json
+*.log
+
+# Exclude
+!vendor/bin
